@@ -74,5 +74,12 @@ This project is a Django REST Framework (DRF)-based API for task management. It 
 3. Assign users to tasks via `/tasks/<int:pk>/assign/`.
 4. Retrieve tasks assigned to a specific user using `/users/<int:user_id>/tasks/`.
 
+## POSTMAN API OUTPUTS
+![IMG1](screenshots/img1.png)
+![IMG2](screenshots/img2.png)
+![IMG3](screenshots/img3.png)
+![IMG4](screenshots/img4.png)
+![IMG5](screenshots/img5.png)
+![IMG6](screenshots/img6.png)
 ## Copyright
 Saksh Arora
